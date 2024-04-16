@@ -14,6 +14,14 @@ Types of Data Analysts:-
 - Operations Analysts
 - Sports Analysts
 - Crime Analysts
-- Environmental Data Analysts
+- Environmental Data Analysts    
 - Social Media Analysts
 - Economic Analysts
+
+
+Things to do to become AWESOME!!!!!
+    Starting point - Statistics - Excel - SQL - Python _ Data Visualisation - BI Tools - You are AWESOME!!!!!!
+
+Pipeling: Collect-Process-Store-Analyse-Deliver
+
+'
